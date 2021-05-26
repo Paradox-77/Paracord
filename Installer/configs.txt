@@ -1,0 +1,10 @@
+Accent Color 
+Accent Color 2
+Accent Color RGB 
+Accent Color RGB 2
+Accent Color Hex 
+Accent Color Hex 2
+Selection Color RGB
+Accent Gradient
+Font 
+Tag
