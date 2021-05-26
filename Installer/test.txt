@@ -1,0 +1,4 @@
+:root {
+    --tester1: TestComplete
+    --bot: {bot}
+}
